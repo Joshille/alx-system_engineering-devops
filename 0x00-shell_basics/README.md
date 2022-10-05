@@ -1,5 +1,1 @@
-created  a script that prints thse absolute path name of the current working directory> README.md
-
-
-
-echo created a script that prints thse absolute path name of the current working directory
+created a script that prints absolute path name of the current working directory
